@@ -1,4 +1,4 @@
 const name = "Abdul Qadir"
 let age = 18
 var classes = 12
-// add  d
+// add  some changing
