@@ -43,3 +43,9 @@ let object = {
     StudnetName : "Abdul Qadir"
 
 }
+
+function firstFunction() {
+    console.log("ABdul Qadir")
+}
+
+firstFunction()
